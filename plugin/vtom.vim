@@ -7,7 +7,7 @@
 " https://gist.github.com/float1251/fdad4eae7644a5f5eb4e
 " http://nanasi.jp/articles/code/screen/visual.html
 
-if exists("g:loaded_vimtom")
+if exists("g:loaded_vtom")
   finish
 endif
 let g:loaded_typecorr = 1
