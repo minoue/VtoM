@@ -10,7 +10,7 @@
 if exists("g:loaded_vtom")
   finish
 endif
-let g:loaded_typecorr = 1
+let g:loaded_vtom = 1
 
 let s:save_cpo = &cpo
 set cpo&vim
